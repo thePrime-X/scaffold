@@ -4,4 +4,4 @@ def add(x, y):
 x = 1
 y = 2
 
-printf(f"This is the sum: {x}, {y}, {add(x, y)}"}
+printf(f"This is the sum: {x}, {y}, {add(x, y)}")
